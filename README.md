@@ -7,7 +7,7 @@
 - 👯 I'm looking to collaborate with other open source developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
   - [VFNetwork](https://github.com/vafreitas/VFNetwork) - Protocol Oriented Networking Layer.
-  - [UICodeKit](https://github.com/vafreitas/UICodeKit) - Work in Progress.
+  - [UICodeKit](https://github.com/vafreitas/UICodeKit) - Elegant UIKit ViewCode Library (Beta).
   
 - ⚡ Fun fact: I love to code and learn other programming languages.
 
